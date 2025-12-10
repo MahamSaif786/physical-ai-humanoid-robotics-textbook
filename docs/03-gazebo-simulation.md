@@ -1,3 +1,8 @@
+---
+id: 03-gazebo-simulation
+title: Gazebo Simulation
+---
+
 # Module 2: Gazebo – The Digital Twin
 
 Gazebo is a 3D simulation platform used to test robots safely before deploying them in the real world.

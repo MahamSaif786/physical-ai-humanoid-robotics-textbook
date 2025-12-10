@@ -1,3 +1,10 @@
+---
+id: 02-ros2-basics
+title: ROS 2 Basics
+---
+
+
+
 # Module 1: ROS 2 – The Robotic Nervous System
 
 ROS 2 (Robot Operating System 2) is the "nervous system" of a robot.  

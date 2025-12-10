@@ -1,3 +1,9 @@
+---
+id: 05-vla-robotics
+title: Vision-Language-Action (VLA) Robotics
+---
+
+
 # Module 4: Vision–Language–Action (VLA) Robotics
 
 Vision–Language–Action (VLA) systems combine:

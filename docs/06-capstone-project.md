@@ -1,3 +1,9 @@
+---
+id: 06-capstone-project
+title: Capstone Project: Building a Humanoid Robot
+---
+
+
 # Capstone Project: The Autonomous Humanoid Robot
 
 The final project of this course is to build an *Autonomous Humanoid Robot* inside simulation using:

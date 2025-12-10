@@ -1,3 +1,10 @@
+---
+id: 04-nvidia-isaac
+title: NVIDIA Isaac: AI Brain for Robots
+---
+
+
+
 # Module 3: NVIDIA Isaac – The AI Brain of Robots
 
 NVIDIA Isaac is a robotics AI platform that provides:

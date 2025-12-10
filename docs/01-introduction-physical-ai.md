@@ -1,3 +1,9 @@
+---
+id: 01-introduction-physical-ai
+title: Introduction to Physical AI & Humanoid Robotics
+---
+
+
 # Introduction to Physical AI & Humanoid Robotics
 
 Physical AI refers to intelligent systems that operate in the physical world, not just in software. 
